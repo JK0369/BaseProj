@@ -106,6 +106,7 @@
 		E0EC197826BD8DBA00EE4723 /* Infrastructure */ = {
 			isa = PBXGroup;
 			children = (
+				E0EC198626BD919000EE4723 /* Network */,
 			);
 			path = Infrastructure;
 			sourceTree = "<group>";
@@ -198,6 +199,37 @@
 			children = (
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		E0EC198626BD919000EE4723 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				E0EC198926BD919E00EE4723 /* Base */,
+				E0EC198826BD919A00EE4723 /* APIs */,
+				E0EC198726BD919600EE4723 /* Common */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		E0EC198726BD919600EE4723 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		E0EC198826BD919A00EE4723 /* APIs */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = APIs;
+			sourceTree = "<group>";
+		};
+		E0EC198926BD919E00EE4723 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Base;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
